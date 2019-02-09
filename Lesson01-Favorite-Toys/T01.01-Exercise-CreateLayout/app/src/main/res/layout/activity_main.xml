@@ -15,6 +15,8 @@
      limitations under the License.
 -->
 <!--TODO (1) Change the ConstraintLayout to a FrameLayout.
+Feel free to change the code according to the task.
+After you are done with all the TODOs, it is time to merge changes.
     Note that you don't need to use the fully qualified name for FrameLayout. Replace
     "android.support.constraint.ConstraintLayout" with "FrameLayout"-->
 <!--TODO (6) Remove the line that declares the id, we don't need it-->
